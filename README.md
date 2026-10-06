@@ -12,4 +12,4 @@ My interests include:
 
 I build projects primarily in **C++, Rust, and Go**, with Python for tooling and analysis.
 
-Here you’ll find my experiments with distributed storage, multiplayer networking, and microservice performance.
+Here you’ll find my projects with distributed storage, multiplayer networking, and microservice performance.

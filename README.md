@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Tim 👋
 
-<!--
-**liuziyue141/liuziyue141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science master’s student at Stanford and a Computer Engineering graduate from UC San Diego.
 
-Here are some ideas to get you started:
+I’m passionate about **distributed systems and systems programming**. I enjoy understanding how systems work, finding what limits their performance, and building software that stays reliable when things go wrong.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include:
+
+- **Distributed storage:** replication, consistency, and fault tolerance
+- **Networking:** communication protocols and concurrent services
+- **Performance:** profiling, load testing, and bottleneck analysis
+
+I build projects primarily in **C++, Rust, and Go**, with Python for tooling and analysis.
+
+Here you’ll find my experiments with distributed storage, multiplayer networking, and microservice performance.
